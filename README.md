@@ -1,12 +1,11 @@
-# Hello! I'm Nat👋
+<img src=header.png>
+<p align="center">
+  <a href="https://github.com/nathaliajoana/"><img width="24" height="24" alt="github-9-24" src="https://github.com/user-attachments/assets/d041073a-b195-42d7-b1f8-d07a5616783c"></a> 
+  <a href="https://www.linkedin.com/in/nathaliajoana/"><img width="24" height="24" alt="linkedin-6-24" src="https://github.com/user-attachments/assets/281eceb5-bce6-4f6b-9aeb-3270620b2fdc"/></a> 
+  <a href="mailto:contato.njoana@gmail.com"><img width="24" height="24" alt="email-14-24" src="https://github.com/user-attachments/assets/f9115711-efcd-46b3-b99c-5b9f93786374"/></a>
+</p>
 
-I am a Software Engineer currently working at Nubank, located in Brazil, Santo André.
-
-How to reach me:
-
-[<img width="24" height="24" alt="github-9-24" src="https://github.com/user-attachments/assets/d041073a-b195-42d7-b1f8-d07a5616783c" />](https://github.com/nathaliajoana)
-[<img width="24" height="24" alt="linkedin-6-24" src="https://github.com/user-attachments/assets/281eceb5-bce6-4f6b-9aeb-3270620b2fdc" />](https://www.linkedin.com/in/nathaliajoana/)
-<a href="mailto:contato.njoana@gmail.com"><img width="24" height="24" alt="email-14-24" src="https://github.com/user-attachments/assets/f9115711-efcd-46b3-b99c-5b9f93786374"/></a>
+<p align="center">I am currenty a Senior Software Engineer at Nubank, located in Brazil.</p>
 
 
 ## ⚙️ Tools
@@ -19,17 +18,19 @@ How to reach me:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ffa8c4)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=ffa8c4)
 
-## 📌 GitHub Stats
+## 🧠 GitHub Stats
 
-<a href="https://github.com/nathaliajoana/nathaliajoana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliajoana&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 <a href="https://github.com/nathaliajoana/nathaliajoana">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathaliajoana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ff6b99&bg_color=1d1f21" alt="Nathalia Joana's GitHub Stats" />
 </a>
 
+<a href="https://github.com/nathaliajoana/nathaliajoana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliajoana&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
 <!-- Resources 
 - Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- REHeader: https://github.com/khalby786/REHeader
 - Icons: https://simpleicons.org/ and https://www.iconsdb.com/
 - Shields: https://shields.io/ 
 - Emojis: https://emojipedia.org/emoji/
